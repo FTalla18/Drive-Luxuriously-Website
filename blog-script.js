@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
                 
                 <h3>3. Porsche 911 Carrera - The Sports Car Icon</h3>
-                <img src="Porsche911.jpg" alt="Porsche 911 Carrera" class="article-image"></img>
+                <img src="Porche911.jpg" alt="Porsche 911 Carrera" class="article-image"></img>
                 <p>Feel the thrill of the open road in a Porsche 911 Carrera. Its perfect balance of performance and comfort makes it ideal for winding mountain roads or desert highways.</p>
                 <p><strong>Destination Suggestion</strong>: Route 66, Arizona to California<br>
                 <strong>1-Week Rental Estimate</strong>: $2,500</p>
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
                 
                 <h3>5. BMW i8 - The Futuristic Hybrid</h3>
-                <img src="BMW Unmatched Comfort.jpg" alt="BMW i8" class="article-image"></img>
+                <img src="BMW i8.jpg" alt="BMW i8" class="article-image"></img>
                 <p>Turn heads wherever you go with the BMW i8. This plug-in hybrid offers the perfect blend of efficiency and excitement.</p>
                 <p><strong>Destination Suggestion</strong>: Miami to Key West, Florida<br>
                 <strong>1-Week Rental Estimate</strong>: $2,300</p>
@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
                 
                 <h3>1. Make a Grand Entrance</h3>
-                <img src="Luxury Car Entrance3.jpg" alt="Luxury Car Entrance" class="article-image">
+                <img src="land-rover-range-rover-virgin-galactic-spaceship.JPEG" alt="Luxury Car Entrance" class="article-image">
                 <p>Imagine pulling up to a stunning venue in a sleek, elegant vehicle. Renting a luxury car allows you to make a memorable entrance, whether it's for a wedding, a business meeting, or a special event. Arriving in style not only boosts your confidence but also leaves a lasting impression on your peers.</p>
                 <p><strong>Destination Suggestion</strong>: <strong>Miami, Florida</strong></p>
                 <ul>
@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
                 
                 <h3>4. Cost-Effective Luxury for Special Occasions</h3>
-                <img src="Best-Deals-On-Tokunbo-Luxury-Cars-In-Nigeria-1.jpg" alt="Cost-Effective Luxury for Special Occasions" class="article-image">
+                <img src="picture of woman in stepping out of car sitting.JPEG" alt="Cost-Effective Luxury for Special Occasions" class="article-image">
                 <p>While luxury cars may seem pricey, renting can be a cost-effective option for special occasions. Instead of purchasing a high-end vehicle, you can enjoy the luxury experience for a fraction of the cost. This is particularly advantageous for group events, where you can rent a spacious luxury SUV or limousine and share the expense.</p>
                 <p><strong>Destination Suggestion</strong>: <strong>New York City, New York</strong></p>
                 <ul>
@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
 
                 <h3>Conclusion</h3>
-                <img src="ai-generated-luxury-car-and-private-jet-at-the-airport-business-class-service-at-the-airport-generative-ai-photo.jpg" alt="Conclusion" class="article-image">
+                <img src="HD-wallpaper-rover-range-sport-luxury-black-suv-tuning-british-cars-2017-airport-passenger-plane-land-rover.jpg" alt="Conclusion" class="article-image">
                 <p>Renting a luxury car for your next vacation is an investment in unforgettable experiences. From making a grand entrance to enjoying unparalleled comfort and technology, the benefits are endless. So why wait? Elevate your travel experience and create lasting memories by choosing a luxury car rental for your next adventure.</p>
 
                 <p>Ready to hit the road in style? <strong>Book your luxury car today with Drive Luxuriously and experience the journey of a lifetime!</strong></p>
