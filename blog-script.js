@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
                 
                 <h3>2. Mercedes-Benz S-Class - The Epitome of Luxury</h3>
-                <img src="Mercedes-Benz S-Class.jpg" alt="Mercedes-Benz S-Class" class="article-image"></img>
+                <img src="2024-s-class-exterior.jpg" alt="Mercedes-Benz S-Class" class="article-image"></img>
                 <p>Nothing says luxury quite like a Mercedes-Benz S-Class. Perfect for a sophisticated city break or a luxurious road trip through wine country.</p>
                 <p><strong>Destination Suggestion</strong>: Napa Valley, California<br>
                 <strong>1-Week Rental Estimate</strong>: $2,200</p>
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
                 
                 <h3>3. Porsche 911 Carrera - The Sports Car Icon</h3>
-                <img src="Porsche 911 Carrera.jpg" alt="Porsche 911 Carrera" class="article-image"></img>
+                <img src="Porsche911.jpg" alt="Porsche 911 Carrera" class="article-image"></img>
                 <p>Feel the thrill of the open road in a Porsche 911 Carrera. Its perfect balance of performance and comfort makes it ideal for winding mountain roads or desert highways.</p>
                 <p><strong>Destination Suggestion</strong>: Route 66, Arizona to California<br>
                 <strong>1-Week Rental Estimate</strong>: $2,500</p>
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
                 
                 <h3>4. Range Rover Autobiography - The Luxury SUV</h3>
-                <img src="Range Rover Autobiography.jpg" alt="Range Rover Autobiography" class="article-image"></img>
+                <img src="Range Rover Pic.jpg" alt="Range Rover Autobiography" class="article-image"></img>
                 <p>Combine comfort with capability in the Range Rover Autobiography. Perfect for family trips or adventures off the beaten path.</p>
                 <p><strong>Destination Suggestion</strong>: Yellowstone National Park, Wyoming<br>
                 <strong>1-Week Rental Estimate</strong>: $2,800</p>
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
                 
                 <h3>5. BMW i8 - The Futuristic Hybrid</h3>
-                <img src="BMW i8.jpg" alt="BMW i8" class="article-image"></img>
+                <img src="BMW Unmatched Comfort.jpg" alt="BMW i8" class="article-image"></img>
                 <p>Turn heads wherever you go with the BMW i8. This plug-in hybrid offers the perfect blend of efficiency and excitement.</p>
                 <p><strong>Destination Suggestion</strong>: Miami to Key West, Florida<br>
                 <strong>1-Week Rental Estimate</strong>: $2,300</p>
@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
                 
                 <h3>1. Make a Grand Entrance</h3>
-                <img src="luxury_car_entrance.jpg" alt="Luxury Car Entrance" class="article-image">
+                <img src="Luxury Car Entrance3.jpg" alt="Luxury Car Entrance" class="article-image">
                 <p>Imagine pulling up to a stunning venue in a sleek, elegant vehicle. Renting a luxury car allows you to make a memorable entrance, whether it's for a wedding, a business meeting, or a special event. Arriving in style not only boosts your confidence but also leaves a lasting impression on your peers.</p>
                 <p><strong>Destination Suggestion</strong>: <strong>Miami, Florida</strong></p>
                 <ul>
@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
                 
                 <h3>2. Experience Unmatched Comfort and Performance</h3>
-                <img src="Unmatched Comfort and Performance.jpg" alt="Unmatched Comfort and Performance" class="article-image">
+                <img src="BMW Unmatched Comfort.jpg" alt="Unmatched Comfort and Performance" class="article-image">
                 <p>Luxury cars are designed with comfort in mind. From plush leather seats to advanced climate control systems, every detail is crafted to provide an exceptional driving experience. Plus, many luxury vehicles offer superior performance, allowing you to enjoy a smooth ride with impressive acceleration.</p>
                 <p><strong>Destination Suggestion</strong>: <strong>Napa Valley, California</strong></p>
                 <ul>
@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
                 
                 <h3>3. Access to Cutting-Edge Technology</h3>
-                <img src="Cutting-Edge Technology.jpg" alt="Cutting-Edge Technology" class="article-image">
+                <img src="Cutting-Edge Technology.JPEG" alt="Cutting-Edge Technology" class="article-image">
                 <p>Renting a luxury car gives you the chance to experience the latest automotive technology. From advanced safety features to state-of-the-art infotainment systems, you'll enjoy a connected and entertaining ride. This is especially beneficial if you're considering buying a luxury vehicle in the future; renting allows you to test out different models and features.</p>
                 <p><strong>Destination Suggestion</strong>: <strong>Las Vegas, Nevada</strong></p>
                 <ul>
@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
                 
                 <h3>4. Cost-Effective Luxury for Special Occasions</h3>
-                <img src="Cost-Effective Luxury for Special Occasions.jpg" alt="Cost-Effective Luxury for Special Occasions" class="article-image">
+                <img src="Best-Deals-On-Tokunbo-Luxury-Cars-In-Nigeria-1.jpg" alt="Cost-Effective Luxury for Special Occasions" class="article-image">
                 <p>While luxury cars may seem pricey, renting can be a cost-effective option for special occasions. Instead of purchasing a high-end vehicle, you can enjoy the luxury experience for a fraction of the cost. This is particularly advantageous for group events, where you can rent a spacious luxury SUV or limousine and share the expense.</p>
                 <p><strong>Destination Suggestion</strong>: <strong>New York City, New York</strong></p>
                 <ul>
@@ -157,13 +157,13 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
 
                 <h3>5. Bypass Maintenance Costs</h3>
-                <img src="Bypass Maintenance Costs.jpg" alt="Bypass Maintenance Costs" class="article-image">
+                <img src="repair maintenance costs.jpg" alt="Bypass Maintenance Costs" class="article-image">
                 <p>Owning a luxury car comes with high maintenance costs, but renting allows you to enjoy the luxury experience without the long-term financial commitment. You won't have to worry about insurance, maintenance, or depreciation—just pure driving pleasure.</p>
                 
                 <p></p>
 
                 <h3>Conclusion</h3>
-                <img src="Conclusion.jpg" alt="Conclusion" class="article-image">
+                <img src="ai-generated-luxury-car-and-private-jet-at-the-airport-business-class-service-at-the-airport-generative-ai-photo.jpg" alt="Conclusion" class="article-image">
                 <p>Renting a luxury car for your next vacation is an investment in unforgettable experiences. From making a grand entrance to enjoying unparalleled comfort and technology, the benefits are endless. So why wait? Elevate your travel experience and create lasting memories by choosing a luxury car rental for your next adventure.</p>
 
                 <p>Ready to hit the road in style? <strong>Book your luxury car today with Drive Luxuriously and experience the journey of a lifetime!</strong></p>
