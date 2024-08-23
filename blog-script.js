@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p></p>
                 
                 <h3>1. Tesla Model S Plaid - The Electric Dream</h3>
-                <img src="tesla_model_s.jpg" alt="Tesla Model S Plaid" class="article-image"></img>
+                <img src="tesla model s.jpg" alt="Tesla Model S Plaid" class="article-image"></img>
                 <p>Imagine cruising down the Pacific Coast Highway in California, the ocean breeze in your hair, and not a drop of gas used. The Tesla Model S Plaid offers unparalleled performance with zero emissions.</p>
                 <p><strong>Destination Suggestion</strong>: Big Sur, California<br>
                 <strong>1-Week Rental Estimate</strong>: $1,800</p>
